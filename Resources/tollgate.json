@@ -1,0 +1,28 @@
+{
+"Tollgate":[
+		{
+		"RoleData":[
+				"hero.xml",
+				"niugaoqing.xml"
+			   ]
+		},
+		{
+		"RoleData":[
+				"hero.xml",
+				"laowang.xml"
+			   ]
+		},
+		{
+		"RoleData":[
+				"hero.xml",
+				"hero.xml",
+				"laowang.xml",
+				"niugaoqing.xml",
+				"munvshen.xml"
+			   ]
+		}
+
+
+	   ]
+
+}

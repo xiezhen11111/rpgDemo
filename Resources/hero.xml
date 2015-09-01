@@ -1,0 +1,5 @@
+<data>
+    <role ID="1" HP="200" ATK="50" Type="1" Speed="5" HitRect="{{40,-40},{80,80}}" GetHitRect="{{-40,-40},{80,80}}" 
+	LockLimit="400" ATKLimit="100" ArmatureName="hero" DataName="hero/hero.ExportJson" PlayerName="³ÂÎÞÂë"/>
+
+</data>

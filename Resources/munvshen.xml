@@ -1,0 +1,5 @@
+<data>
+    <role ID="2" HP="100" ATK="10" Type="2" Speed="3" HitRect="{{40,-40},{80,80}}" GetHitRect="{{-40,-40},{80,80}}" 
+	LockLimit="200" ATKLimit="80" ArmatureName="munvshen" DataName="munvshen/munvshen.ExportJson" PlayerName="ÄÂÅ®Éñ"/>
+
+</data>
