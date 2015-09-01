@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ignore thumbnails created by windows
 Thumbs.db
 
@@ -117,3 +118,33 @@ build/build/
 cocos/scripting/lua-bindings/proj.ios_mac/build/
 tests/*/runtime/
 tests/*/publish/
+=======
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+>>>>>>> origin/master
